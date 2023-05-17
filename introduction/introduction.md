@@ -49,4 +49,4 @@ When in the tasks you read:
 ## Acknowledgements
 * **Author** - Perside Foster, MySQL Solution Engineering, Selena Sánchez, MySQL Solutions Engineer
 * **Contributors** -  Perside Foster, MySQL Solution Engineering, Selena Sánchez, MySQL Solutions Engineer
-* **Last Updated By/Date** - Selena Sánchez, MySQL Solution Engineering, May 2023
+* **Last Updated By/Date** - Selena Sánchez, MySQL Solution Engineering, May 202
