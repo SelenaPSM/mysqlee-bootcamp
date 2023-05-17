@@ -2,7 +2,7 @@
 
 ## About this Workshop
 
-MySQL is the world's most popular open source database. Whether you are a fast growing web property, software vendor, a large organization or an SMB MySQL can cost-effectively help you deliver high performance, scalable database applications. 
+MySQL is the world's most popular open source database. Whether you are a fast growing web property, software vendor, a large organization or an SMB MySQL can cost-effectively help you deliver high performance, scalable database applications
 
 MySQL Enterprise Edition is a commercial offering comprised of the MySQL database with security, encryption, auditing, high availability and scalability extensions, online backup, monitoring, management, and visual database design and SQL development tools.
 
