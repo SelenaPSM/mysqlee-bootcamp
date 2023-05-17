@@ -4,6 +4,8 @@
 
 MySQL is the world's most popular open source database, it powers many of the most accessed applications.
 
+MySQL Community Edition is available under the GPL license and is supported by a huge and active community of open source developers.
+
 The MySQL Enterprise Edition is a commercial offering comprised of the MySQL database with security, encryption, auditing, high availability and scalability extensions, online backup, monitoring, management, and visual database design and SQL development tools. It reduces the risk, cost, and complexity in developing, deploying, and managing business-critical MySQL applications.
 
 In this workshop, you will learn how to work install MySQL, design your database, manage roles, create a logical backup and you will get to know Enterprise Edition features: MySQL Enterprise Firewall, MySQL Enterprise Audit, MySQL Enterprise Backup and MySQL Enterprise and Monitor.
